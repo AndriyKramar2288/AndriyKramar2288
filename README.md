@@ -2,9 +2,7 @@
 
 ### Computer Science student | Full-Stack Developer exploring QA & Software Testing
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AndriyKramar2288" alt="Trophies" /></a> 
-</p>
+[![Trophies](https://github-profile-trophy.vercel.app/?username=AndriyKramar2288)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -63,10 +61,8 @@
 
 ### GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AndriyKramar2288&show_icons=true&locale=en&layout=compact" height="150" alt="Top Langs" />
-  <img src="https://github-readme-stats.vercel.app/api?username=AndriyKramar2288&show_icons=true&locale=en" height="150" alt="GitHub Stats" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=AndriyKramar2288&show_icons=true&locale=en&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndriyKramar2288&show_icons=true&locale=en)
 
 ---
 

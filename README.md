@@ -2,30 +2,46 @@
 
 ### Computer Science student | Full-Stack Developer exploring QA & Software Testing
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=AndriyKramar2288)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=AndriyKramar2288" alt="Trophies" />
+  </a>
+</p>
 
 ---
 
 ### Tech Stack & Tools
 
 **Backend & Databases:**
-<p align="left"> 
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,python" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,python" alt="Backend Stack" />
 </p>
 
 **Testing & DevOps / Infrastructure:**
-<p align="left"> 
-  <img src="https://skillicons.dev/icons?i=postman,docker,linux,git" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postman,docker,linux,git" alt="DevOps Stack" />
 </p>
 
 **Frontend:**
-<p align="left"> 
-  <img src="https://skillicons.dev/icons?i=js,react,nextjs,vite,tailwind,html,css,ts" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,vite,tailwind,html,css,ts" alt="Frontend Stack" />
 </p>
 
 ---
 
 ### Featured Projects
+
+*   **Jidai (Home Server & IoT Infrastructure)**
+    *   📅 **Timeline:** Квітень 2026 – Present
+    *   🛠 **Tech Stack:** Docker, Nginx, MQTT (Mosquitto), Node-RED, Linux
+    *   🔗 **Links:** [GitHub](https://github.com/AndriyKramar2288/jidai)
+    *   📝 **Description:** Комплексна система управління власною інфраструктурою. Самостійне налаштування Linux-сервера, оркестрація Docker-контейнерів, налаштування Nginx як reverse proxy та розгортання MQTT-брокера.
+
+*   **Report Generation Tool**
+    *   📅 **Timeline:** Лютий 2026 – Березень 2026
+    *   🛠 **Tech Stack:** Java 17, Node.js (carbon-now), XML/YAML, Markdown, Velocity, Shell
+    *   🔗 **Links:** [GitHub](https://github.com/AndriyKramar2288/report-generation)
+    *   📝 **Description:** CLI-утиліта для автоматизованої генерації технічної звітності (DOCX/PDF) за підходом "Docs as Code". Реалізував автоматичне виконання термінальних команд із захопленням виводу, парсинг коду та каскадний режим для інтеграції з LLM.
 
 *   **"Seezu" Mobile Application**
     *   📅 **Timeline:** Жовтень 2025 – Грудень 2025
@@ -45,24 +61,14 @@
     *   🔗 **Links:** [GitHub](https://github.com/maphendx/projectgarage)
     *   📝 **Description:** Командна розробка соціальної мережі з ШІ-генерацією музики. Проводив ручне тестування REST API, розробляв частину клієнтського інтерфейсу та успішно реалізував P2P голосовий чат.
 
-*   **Report Generation Tool**
-    *   📅 **Timeline:** Лютий 2026 – Березень 2026
-    *   🛠 **Tech Stack:** Java 17, Node.js (carbon-now), XML/YAML, Markdown, Velocity, Shell
-    *   🔗 **Links:** [GitHub](https://github.com/AndriyKramar2288/report-generation)
-    *   📝 **Description:** CLI-утиліта для автоматизованої генерації технічної звітності (DOCX/PDF) за підходом "Docs as Code". Реалізував автоматичне виконання термінальних команд із захопленням виводу, парсинг коду та каскадний режим для інтеграції з LLM.
-
-*   **Jidai (Home Server & IoT Infrastructure)**
-    *   📅 **Timeline:** Квітень 2026 – Present
-    *   🛠 **Tech Stack:** Docker, Nginx, MQTT (Mosquitto), Node-RED, Linux
-    *   🔗 **Links:** [GitHub](https://github.com/AndriyKramar2288/jidai)
-    *   📝 **Description:** Комплексна система управління власною інфраструктурою. Самостійне налаштування Linux-сервера, оркестрація Docker-контейнерів, налаштування Nginx як reverse proxy та розгортання MQTT-брокера.
-
 ---
 
 ### GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=AndriyKramar2288&show_icons=true&locale=en&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndriyKramar2288&show_icons=true&locale=en)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AndriyKramar2288&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AndriyKramar2288&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
 
 ---
 

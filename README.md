@@ -1,20 +1,14 @@
-# Hi 👋, I'm Andriyko Kramar
+# Hi 👋, I'm Andriy Kramar
 
 ### Computer Science student | Full-Stack Developer exploring QA & Software Testing
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=AndriyKramar2288" alt="Trophies" />
-  </a>
-</p>
 
 ---
 
 ### Tech Stack & Tools
 
-**Backend & Databases:**
+**Backend & Databases / Automation:**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,python" alt="Backend Stack" />
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,postgres,python" alt="Backend Stack" />
 </p>
 
 **Testing & DevOps / Infrastructure:**
@@ -22,9 +16,9 @@
   <img src="https://skillicons.dev/icons?i=postman,docker,linux,git" alt="DevOps Stack" />
 </p>
 
-**Frontend:**
+**Frontend & Other:**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,nextjs,vite,tailwind,html,css,ts" alt="Frontend Stack" />
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,vite,tailwind,html,css,arduino" alt="Frontend Stack" />
 </p>
 
 ---
@@ -63,18 +57,10 @@
 
 ---
 
-### GitHub Stats
+### Connect with me:
+- email: **andriykramar465@gmail.com**
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AndriyKramar2288&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
-  <img src="https://github-readme-stats.vercel.app/api?username=AndriyKramar2288&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
----
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/kramar-andriy-a48259368" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-  <a href="https://discord.gg/banewho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" /></a>
   <a href="https://instagram.com/_bnwh0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
 </p>
